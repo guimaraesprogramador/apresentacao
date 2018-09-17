@@ -80,11 +80,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CodedUITestProject1\CodedUITestProject1.csproj">
-      <Project>{c6766440-0fd3-45d1-8486-cf9f73eacda5}</Project>
-      <Name>CodedUITestProject1</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
