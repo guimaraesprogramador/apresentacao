@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplicativo01", "aplicativo0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste_unitario", "teste_unitario\teste_unitario.csproj", "{789DFD63-EC33-4FC5-BC93-A087659A18C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravacao", "Gravacao\Gravacao.csproj", "{632DF244-C77D-49D2-8F36-B6E2674639CC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{789DFD63-EC33-4FC5-BC93-A087659A18C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789DFD63-EC33-4FC5-BC93-A087659A18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789DFD63-EC33-4FC5-BC93-A087659A18C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{632DF244-C77D-49D2-8F36-B6E2674639CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{632DF244-C77D-49D2-8F36-B6E2674639CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{632DF244-C77D-49D2-8F36-B6E2674639CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{632DF244-C77D-49D2-8F36-B6E2674639CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
