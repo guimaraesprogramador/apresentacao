@@ -27,7 +27,7 @@ namespace aplicativo01
 					
 					break;
 				}
-				MessageBox.Show(texto[0]);
+				MessageBox.Show(texto[0]+"trabalho");
 			}
 		}
 		public   void criartheard(int index)
